@@ -1,4 +1,4 @@
-# Hi there! I'm Abhishek 👋 
+# Hi there! I'm Abhishek Maddheshiya 👋 
 ### Full Stack Developer in the Making | MERN Stack Learner
 
 I am a passionate **Frontend / Full Stack Developer** focused on building clean, modern, and user-centric web applications. I love diving deep into JavaScript and turning complex problems into elegant, functional code. Currently, I'm sharpening my skills in the MERN stack to build robust end-to-end applications.
@@ -33,12 +33,13 @@ I am a passionate **Frontend / Full Stack Developer** focused on building clean,
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+
 ### 📫 Let's Connect!
 I’m always open to collaborating on interesting projects or discussing job opportunities.
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile]((https://www.linkedin.com/in/abhishek-maddheshiya-a041752b7/))
-- 📧 **Email:** [your.email@example.com](mailto:abhishekmaddheshiya632@gmail.com)
-- 🌐 **Portfolio:** [your-portfolio-link.com]((https://abhi-portfolio-vert.vercel.app/dashboard/home))
+- 💼 **LinkedIn:** [Abhishek Maddheshiya](https://www.linkedin.com/in/abhishek-maddheshiya-a041752b7/)
+- 📧 **Email:** [abhishekmaddheshiya632@gmail.com](mailto:abhishekmaddheshiya632@gmail.com)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://abhi-portfolio-vert.vercel.app/dashboard/home)
 
 ---
 
