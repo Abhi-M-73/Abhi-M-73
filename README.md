@@ -33,35 +33,12 @@ I am a passionate **Frontend / Full Stack Developer** focused on building clean,
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
----
-
-### 📊 GitHub Statistics
-*Note: Replace `YOUR-USERNAME` with your actual GitHub username in the links below!*
-
-| My Stats | Top Languages |
-| :--- | :--- |
-| ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true) |
-
----
-
-### 📂 Featured Projects
-*Here are a few things I've been building:*
-
-* **[Project Name 1]** - A modern UI built with React and Tailwind. 
-    * [🔗 Live Demo] | [💻 Code]
-* **[Project Name 2]** - State management focus using Redux Toolkit.
-    * [🔗 Live Demo] | [💻 Code]
-* **[Project Name 3]** - Interactive JS Dashboard.
-    * [🔗 Live Demo] | [💻 Code]
-
----
-
 ### 📫 Let's Connect!
 I’m always open to collaborating on interesting projects or discussing job opportunities.
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile]((https://www.linkedin.com/in/abhishek-maddheshiya-a041752b7/))
+- 📧 **Email:** [your.email@example.com](mailto:abhishekmaddheshiya632@gmail.com)
+- 🌐 **Portfolio:** [your-portfolio-link.com]((https://abhi-portfolio-vert.vercel.app/dashboard/home))
 
 ---
 
