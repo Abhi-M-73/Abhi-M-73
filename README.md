@@ -88,7 +88,7 @@ I'm always open to collaborating on interesting projects or discussing job oppor
 
 | 💼 LinkedIn | 📧 Email | 🌐 Portfolio |
 |:---:|:---:|:---:|
-| [Abhishek Maddheshiya](https://www.linkedin.com/in/abhishek-maddheshiya-a041752b7/) | [abhishekmaddheshiya632@gmail.com](mailto:abhishekmaddheshiya632@gmail.com) | [Visit My Portfolio](https://abhi-portfolio-vert.vercel.app/dashboard/home) |
+| [Abhishek Maddheshiya]((https://www.linkedin.com/in/abhishekmaddheshiya632/)) | [abhishekmaddheshiya632@gmail.com](mailto:abhishekmaddheshiya632@gmail.com) | [Visit My Portfolio](https://abhi-portfolio-vert.vercel.app/dashboard/home) |
 
 </div>
 
