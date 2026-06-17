@@ -64,35 +64,6 @@ const abhishek = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaddheshiya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=00c6ff&text_color=e6edf3&count_private=true&include_all_commits=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekMaddheshiya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=e6edf3&langs_count=6" height="180" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AbhishekMaddheshiya&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ffa3&fire=00c6ff&currStreakLabel=00ffa3" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekMaddheshiya&theme=github-compact&bg_color=0d1117&color=00ffa3&line=00c6ff&point=ffffff&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekMaddheshiya&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
 
 ## 💡 Dev Philosophy
 
